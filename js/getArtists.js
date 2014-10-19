@@ -37,7 +37,7 @@ function getArtistPages(page_id)
 	        getPageInfo(response.data[i].id);
 			cpt ++;
 	    }
-	    if( cpt <= 20 ) 
+	    if( cpt <= 1500 ) 
 	    {
 			// on continue de chercher des pages artistes
 			getArtistPages(response.data[i].id);
