@@ -1,0 +1,6 @@
+Informations de test
+
+PROJET EN LOCALHOST
+PAGE ID : 1378676029021416 (input front)
+API ACCESS TOKEN : le votre (input front)
+API ID : le votre (a modifier dans le code :  js/config.js)

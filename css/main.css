@@ -1,0 +1,14 @@
+body { margin: 0;  background-color: #f5f6f7; }
+
+#main { margin-left: auto; margin-right: auto; width:  800px ;  }
+ #error { color: red; margin-bottom:10px; }
+ 
+.searchBar{width:250px;}
+.cursor{cursor:pointer;}
+
+.artists{ border: 1px solid #d2d2d2; width: 800px; margin-top:30px; }
+.artists th { background-color: #f56a68; color:#fff;}
+.artists th, .artists td { padding-left: 12px; padding-top: 4px ; padding-bottom: 2px ;  border: 1px solid #d2d2d2;}
+ .artists td {background-color:#fff;}
+ 
+
